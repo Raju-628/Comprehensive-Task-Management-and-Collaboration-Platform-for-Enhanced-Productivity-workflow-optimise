@@ -100,7 +100,7 @@ Make sure Golang is installed on your machine. Then proceed with:
 
 sh
 Copy code
-git clone https://github.com/JordanKnott/taskcafe && cd taskcafe
+ && cd taskcafe
 go run cmd/mage/main.go install
 go run cmd/mage/main.go build
 This process will:
